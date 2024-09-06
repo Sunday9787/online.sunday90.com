@@ -1,0 +1,1 @@
+@charset "UTF-8";.good-container{display:flex;flex-direction:column;margin:0 auto;row-gap:12px;width:600px}.good-title{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.good-spec{flex-direction:column;margin:0;padding:0;row-gap:12px}.good-spec,.good-spec__item{display:flex}.good-spec-title:after{content:"："}

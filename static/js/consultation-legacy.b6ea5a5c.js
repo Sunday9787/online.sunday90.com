@@ -1,0 +1,2 @@
+System.register(["./common-legacy.d7654128.js","./vendor-legacy.dbd054b8.js","./components-legacy.f0b08948.js","./libs-legacy.2246c928.js"],(function(e,n){"use strict";var t,l;return{setters:[function(e){t=e.b},function(e){l=e.n},null,null],execute:function(){e("default",l({name:"ConsultationIndex",setup:function(){return{theme:t("appModule").state.theme}}},(function(){var e=this,n=e._self._c;return n("app-patient",[n("h1",[e._v("当前主题 "+e._s(e.theme))])])}),[],!1,null,null,null,null).exports)}}}));
+//# sourceMappingURL=consultation-legacy.b6ea5a5c.js.map

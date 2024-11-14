@@ -1,0 +1,2 @@
+import{b as t}from"./common.c8fc7f20.js";import{n as e}from"./vendor.e75a9f0e.js";import"./components.a228e139.js";import"./libs.ec5fd20d.js";const n=e({name:"ConsultationIndex",setup:()=>({theme:t("appModule").state.theme})},(function(){var t=this,e=t._self._c;return e("app-patient",[e("h1",[t._v("当前主题 "+t._s(t.theme))])])}),[],!1,null,null,null,null).exports;export{n as default};
+//# sourceMappingURL=consultation.ae901199.js.map

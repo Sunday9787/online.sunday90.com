@@ -1,0 +1,2 @@
+import{n as t}from"./vendor.e75a9f0e.js";import"./libs.ec5fd20d.js";var r=function(){return(0,this._self._c)("div",{staticClass:"spec-group"},[this._t("default")],2)},e=[];const u=t({name:"SpecGroup",props:{value:{type:String,required:!0}},provide(){return{rootGroup:this}},data:()=>({current:null}),created(){this.current=this.value},watch:{value(t){this.current=t,this.$emit("input",t)},current(t){this.$emit("input",t)}}},r,e,!1,null,null,null,null).exports;export{u as default};
+//# sourceMappingURL=spec-group.2aae5e86.js.map

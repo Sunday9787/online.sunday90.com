@@ -1,0 +1,1 @@
+{"version":3,"file":"index-5.04ee546a.js","sources":["../../../src/class/sem/cache.js"],"sourcesContent":["/**\n * @type {Map<string, import('./assets').Asset}\n */\nexport const cache = new Map()\n"],"names":["cache","Map"],"mappings":"AAGY,MAACA,MAAYC"}

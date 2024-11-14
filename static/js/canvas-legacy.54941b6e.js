@@ -1,0 +1,2 @@
+System.register(["./vendor-legacy.ddc66af0.js","./libs-legacy.774d107d.js"],(function(t,e){"use strict";var n;return{setters:[function(t){n=t.n},null],execute:function(){t("default",n({name:"CanvasIndex"},(function(){var t=this._self._c;return t("app-page",[t("app-card",[t("router-link",{attrs:{to:"/canvas/sem"}},[t("el-button",{attrs:{type:"primary"}},[this._v("SEM")])],1)],1)],1)}),[],!1,null,null,null,null).exports)}}}));
+//# sourceMappingURL=canvas-legacy.54941b6e.js.map

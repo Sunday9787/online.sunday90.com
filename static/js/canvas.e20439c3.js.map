@@ -1,0 +1,1 @@
+{"version":3,"file":"canvas.e20439c3.js","sources":["../../../src/views/canvas/index.vue?chunkName=canvas"],"sourcesContent":["<template lang=\"pug\">\napp-page\n  app-card\n    router-link(to=\"/canvas/sem\")\n      el-button(type=\"primary\") SEM\n</template>\n\n<script>\nexport default {\n  name: 'CanvasIndex'\n}\n</script>\n"],"names":["name"],"mappings":"8EAQA,CACAA,KAAA"}
